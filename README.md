@@ -36,7 +36,7 @@ Distributed under the MIT License. See https://github.com/Eltonjohn-Oketch/Ecuad
 
 # Model Methods
 
-Huggingface transformers
+Time series Analysis
 
 # Author
 
